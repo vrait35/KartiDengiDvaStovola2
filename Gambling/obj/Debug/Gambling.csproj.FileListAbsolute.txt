@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\Gambling\Gambling\bin\Debug\Gambling.exe.config
+C:\Users\anuar\source\repos\Gambling\Gambling\bin\Debug\Gambling.exe
+C:\Users\anuar\source\repos\Gambling\Gambling\bin\Debug\Gambling.pdb
+C:\Users\anuar\source\repos\Gambling\Gambling\obj\Debug\Gambling.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\Gambling\Gambling\obj\Debug\Gambling.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\Gambling\Gambling\obj\Debug\Gambling.exe
+C:\Users\anuar\source\repos\Gambling\Gambling\obj\Debug\Gambling.pdb
